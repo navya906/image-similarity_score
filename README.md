@@ -56,16 +56,6 @@ python app.py
 - OpenCV / PIL
 - Scikit-learn (for cosine similarity)
 
-### 🔍 Example Use Case
-Compare two animal images to check how similar they are. Could be extended to:
-- Duplicate image detection
-- Reverse image search
-- Content-based image retrieval
-
-### ✅ TODOs / Future Work
-- Streamlit UI for drag-and-drop image comparison
-- Batch processing
-- Option to switch model (e.g., VGG, MobileNet)
 
 ### 🧑‍💻 Author
 Navya Ghatta\
