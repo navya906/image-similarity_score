@@ -39,7 +39,12 @@ source venv/bin/activate      # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 3. Run the App
+### 3. Install requirements
+```
+pip install -r requirements.txt
+```
+
+### 4. Run the App
 ```
 python app.py
 ```
@@ -63,6 +68,6 @@ Compare two animal images to check how similar they are. Could be extended to:
 - Option to switch model (e.g., VGG, MobileNet)
 
 ### 🧑‍💻 Author
-Navya Ghatta:\
+Navya Ghatta\
 Computer Science Student | [LinkedIn](https://www.linkedin.com/in/navya-g-a97051314/)
 
