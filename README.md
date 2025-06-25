@@ -63,6 +63,6 @@ Compare two animal images to check how similar they are. Could be extended to:
 - Option to switch model (e.g., VGG, MobileNet)
 
 ### 🧑‍💻 Author
-Navya Ghatta
+Navya Ghatta:\
 Computer Science Student | [LinkedIn](https://www.linkedin.com/in/navya-g-a97051314/)
 
